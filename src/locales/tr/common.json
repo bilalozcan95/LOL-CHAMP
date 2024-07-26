@@ -1,0 +1,8 @@
+{
+    "loading": "Yükleniyor...",
+    "errorFetchingData": "Veri alınırken hata oluştu: {{message}}",
+    "abilities": "Yetenekler",
+    "skins": "Kostümler",
+    "close": "Kapat"
+  }
+  

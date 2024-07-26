@@ -1,0 +1,8 @@
+{
+    "loading": "Loading...",
+    "errorFetchingData": "Error fetching data: {{message}}",
+    "abilities": "Abilities",
+    "skins": "Skins",
+    "close": "Close"
+  }
+  
